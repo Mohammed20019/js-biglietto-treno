@@ -12,4 +12,5 @@ if(Age < 18){
     Kmpercorsi*0.20;
 }
 alert("Il prezzo del tuo biglietto è di " + Kmpercorsi.toFixed(2) + " €");
+console.log(`il prezzo del biglietto ${Kmpercorsi} €`)
 
